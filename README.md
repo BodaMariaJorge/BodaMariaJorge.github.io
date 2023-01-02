@@ -1,3 +1,3 @@
 # BodaMaria-Jorge
 Invitación de boda
-https://jorgearroyog.github.io/
+https://bodamariajorge.github.io/
